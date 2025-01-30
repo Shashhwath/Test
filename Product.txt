@@ -1,6 +1,0 @@
-Products
-
-1] Computer
-2] Laptop
-3] Mobile Phone
-4] Earbuds
